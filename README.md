@@ -1,2 +1,2 @@
 # PopGradientGNN
-PopGradientGNN paper code
+Once the paper is accepted, the code will be open source
